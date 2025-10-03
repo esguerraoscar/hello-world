@@ -1,1 +1,2 @@
 otro cambio con rama feature
+ajuste archi2
