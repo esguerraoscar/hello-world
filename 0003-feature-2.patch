@@ -1,0 +1,23 @@
+From 6faee304719c827c711777e0258a577414d1be8a Mon Sep 17 00:00:00 2001
+From: Oscar Esguerra <esguerraoscar@gmail.com>
+Date: Fri, 3 Oct 2025 14:07:13 +1000
+Subject: [PATCH 3/3] feature 2
+
+(cherry picked from commit 1bd65d44b1a38de2707b7fb62961f088f3d15b9d)
+form branch feature
+---
+ archivo2.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/archivo2.txt b/archivo2.txt
+index e69de29..8408591 100644
+--- a/archivo2.txt
++++ b/archivo2.txt
+@@ -0,0 +1,4 @@
++otro cambio con rama feature
++ajuste archi2
++cambio feature 2
++
+-- 
+2.51.0.windows.2
+

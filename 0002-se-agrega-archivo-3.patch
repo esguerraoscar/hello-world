@@ -1,0 +1,21 @@
+From d686fa69223210d9be3711ddeaff8bccc22dbd99 Mon Sep 17 00:00:00 2001
+From: Oscar Esguerra <esguerraoscar@gmail.com>
+Date: Thu, 2 Oct 2025 13:36:14 +1000
+Subject: [PATCH 2/3] se agrega archivo 3
+
+agregando archivo 3 con nuevo desarrollo
+---
+ archivo3.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 archivo3.txt
+
+diff --git a/archivo3.txt b/archivo3.txt
+new file mode 100644
+index 0000000..7590ec1
+--- /dev/null
++++ b/archivo3.txt
+@@ -0,0 +1 @@
++nuevo 3
+-- 
+2.51.0.windows.2
+
